@@ -43,14 +43,14 @@ Python · TensorFlow · Keras · NLP · Pandas · NumPy · Scikit-learn · Seabo
 ## Project Structure
 ```
 Text-emotion-classifier/
+├── Artifacts/
+│   ├── BiGRU_Model.keras         # trained model
+│   └── tokenizer.pkl             # fitted tokenizer
+├── .gitignore
+├── README.md
 ├── app.py                        # Streamlit UI
 ├── emotion_classification.ipynb  # training and evaluation notebook
-├── requirements.txt
-├── README.md
-├── .gitignore
-└── Artifacts/
-    ├── BiGRU_Model.keras         # trained model
-    └── tokenizer.pkl             # fitted tokenizer
+└── requirements.txt
 ```
 
 ## Run Locally
