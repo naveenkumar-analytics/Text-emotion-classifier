@@ -3,7 +3,7 @@
 A deep learning project that detects **6 emotions** (sadness, joy, love, anger, fear, surprise) from English text.
 Four recurrent architectures were trained and compared, and the best model (Bidirectional GRU) is deployed in an interactive **Streamlit** web app.
 
-🔗 **Live Demo:** _add your Streamlit Cloud link here_
+🔗 **Live Demo:**https://text-emotion-classifier-3k9qvmoqupsl9ypwjdhyym.streamlit.app/
 
 ![App Screenshot](screenshots/app.png)
 
