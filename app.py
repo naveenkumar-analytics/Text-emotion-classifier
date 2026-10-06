@@ -67,7 +67,7 @@ def predict(text, model, tokenizer):
 with st.sidebar:
     st.header("👤 About the Developer")
     st.markdown(
-        "**Your Name**  \nAspiring Data Scientist / ML Engineer  \n"
+        "**Naveen Kumar**  \nAspiring Data Scientist / ML Engineer  \n"
         "[GitHub](https://github.com/naveenkumar-analytics) · "
         "[LinkedIn](https://www.linkedin.com/in/naveen-kumarofficial/)"
     )
