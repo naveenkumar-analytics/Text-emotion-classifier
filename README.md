@@ -5,7 +5,7 @@ Four recurrent architectures were trained and compared, and the best model (Bidi
 
 🔗 **Live Demo:**https://text-emotion-classifier-3k9qvmoqupsl9ypwjdhyym.streamlit.app/
 
-![App Screenshot](screenshots/app.png)
+
 
 ## Features
 - Real-time emotion prediction with confidence score
